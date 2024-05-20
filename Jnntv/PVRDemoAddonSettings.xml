@@ -9,7 +9,17 @@
       <stream>https://amigofx.com:1936/gsgrameena/gsgrameena/playlist.m3u8</stream>
       <archive></archive>
       <provider></provider> <!-- Demo Provider 1 -->
-    </channel>   
+    </channel> 
+    <channel>
+      <name>GS GRAMEENA</name>
+      <radio>0</radio>
+      <number>20</number>
+      <encryption>0</encryption>
+      <icon></icon>
+      <stream>https://amigofx.com:1936/gsgrameena/gsgrameena/playlist.m3u8</stream>
+      <archive></archive>
+      <provider></provider> <!-- Demo Provider 1 -->
+    </channel> 
   </channels>
   <channelgroups>
     <!--
